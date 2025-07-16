@@ -62,7 +62,7 @@ const Index = () => {
             <div className="flex items-center space-x-8">
               <div className="flex items-center space-x-2">
                 <Icon name="Plane" size={24} className="text-blue-600" />
-                <span className="text-xl font-bold text-gray-900">SimStore</span>
+                <span className="text-xl font-bold text-gray-900">xshop</span>
               </div>
               <nav className="hidden md:flex space-x-6">
                 <a href="#" className="text-gray-700 hover:text-blue-600 transition-colors">Главная</a>
@@ -242,7 +242,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Plane" size={24} className="text-blue-400" />
-                <span className="text-xl font-bold">SimStore</span>
+                <span className="text-xl font-bold">xshop</span>
               </div>
               <p className="text-gray-400">
                 Лучшие дополнения для авиасимуляторов от профессиональных разработчиков
@@ -271,7 +271,7 @@ const Index = () => {
               <div className="space-y-2 text-gray-400">
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={16} />
-                  <span>support@simstore.com</span>
+                  <span>support@xshop.com</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Phone" size={16} />
@@ -281,7 +281,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 SimStore. Все права защищены.</p>
+            <p>&copy; 2024 xshop. Все права защищены.</p>
           </div>
         </div>
       </footer>
